@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+pickle5
+scikit-learn==1.2.2
+numpy
+xgboost
